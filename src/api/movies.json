@@ -1,0 +1,67 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Interstellar",
+      "rating": 6.8,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content2.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Arrow",
+      "rating": 8.9,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content3.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mortal Kombat",
+      "rating": 8.9,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content3.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/khhAa4bJK2hRSdh1BhpZPtIROSx.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bajocero",
+      "rating": 6.8,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content2.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/340AAxjvtGXChWkqhIlScZTSokq.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Van Helsing",
+      "rating": 8.9,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content3.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/r8ODGmfNbZQlNhiJl2xQENE2jsk.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Godzilla II",
+      "rating": 6.8,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content2.",
+      "imageURL": "https://www.themoviedb.org/t/p/w220_and_h330_face/jUBF1GWHviF6ls4I3YH5PAl5o85.jpg"
+    },
+    {
+      "name": "Test Scarface",
+      "rating": "9.2",
+      "overview": "Test Scarface efsaneler takımı. This is a wider card with supporting text below as a natural lead-in to additional content3.",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dbBPeL8okEqWJ4kVn1roLUtjMmn.jpg",
+      "id": 11
+    },
+    {
+      "name": "Interstellar2",
+      "rating": "9.9",
+      "overview": "Test this is a wider card with supporting text below as a natural lead-in to additional content2.This is a wider card with supporting text below as a natural lead-in to additional content2.This is a wider card with supporting text below as a natural lead-in to additional content2.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "id": 12
+    },
+    {
+      "name": "Game of Thrones",
+      "rating": "8.4",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+      "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde oldugu için çalışmalar \n\n",
+      "id": 13
+    }
+  ]
+}
